@@ -1,0 +1,12 @@
+form {
+    width: 60%;
+    float: left;
+}
+div > input.form-control {
+    width: 30%;
+    float: right;
+    display: inline;
+}
+.row {
+    margin-bottom: 20px;
+}

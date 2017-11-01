@@ -1,0 +1,28 @@
+.todoListItem input{
+    display: inline;
+    width: 70%;
+    margin-right: 30px;
+}
+.todoListItem span{
+    color: black;
+}
+.todoListItem span.glyphicon-remove{
+    color: white;
+}
+.todoListItem button{
+    margin-right: 10px;
+}
+.todoListItem > span{
+    margin-right: 10px;
+    color:white;
+}
+.list-group-item>.badge {
+    float: none;
+}
+li > .form-control {
+    border: 0;
+    box-shadow: none;
+}
+li.list-group-item {
+    padding: 7px 40px;
+}

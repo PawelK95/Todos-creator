@@ -1,0 +1,34 @@
+.todoItem input{
+    display: inline;
+    width: 70%;
+    margin-right: 30px;
+}
+.todoItem input[type=checkbox] {
+
+    display: inline;
+    width: 7%;
+    margin-right: 5px;
+}
+.todoItem span{
+    color: white;
+}
+.todoItem button{
+    margin-right: 10px;
+}
+.todoItem > span{
+    margin-right: 10px;
+    color:white;
+}
+.list-group-item>.badge {
+    float: none;
+}
+li > .form-control {
+    border: 0;
+    box-shadow: none;
+}
+li.list-group-item {
+    padding: 7px 30px;
+}
+.btn-danger {
+    color:white;
+}
